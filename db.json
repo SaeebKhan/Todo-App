@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "Saeeb",
+      "email": "saeebk29@gmail.com",
+      "password": "saeeb123",
+      "id": 1
+    },
+    {
+      "name": "Saeeb ",
+      "email": "saeeb4538@gmail.com",
+      "password": "saeeb786",
+      "id": 2
+    },
+    {
+      "name": "amit",
+      "email": "amit@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Project ",
+      "description": "Creating Project With Group",
+      "duedate": "2023-10-05T21:50",
+      "userid": 1,
+      "modifiedon": "Thu Oct 05 2023 21:48:51 GMT+0530 (India Standard Time)",
+      "id": 1
+    },
+    {
+      "title": "Meeting ",
+      "description": "Meeting with Client",
+      "duedate": "2023-10-06T21:51",
+      "userid": 1,
+      "modifiedon": "Thu Oct 05 2023 21:49:21 GMT+0530 (India Standard Time)",
+      "id": 2
+    },
+    {
+      "title": "Study",
+      "description": "Group Study for Exam",
+      "duedate": "2023-10-07T09:55",
+      "userid": 1,
+      "modifiedon": "Fri Oct 06 2023 09:52:01 GMT+0530 (India Standard Time)",
+      "id": 3
+    },
+    {
+      "title": "Repair Shop",
+      "description": "Going For Mobile repair",
+      "duedate": "2023-10-08T02:53",
+      "userid": 1,
+      "modifiedon": "Fri Oct 06 2023 09:53:20 GMT+0530 (India Standard Time)",
+      "id": 4
+    },
+    {
+      "title": "Meeting",
+      "description": "Meeting with client",
+      "duedate": "2023-10-10T18:36",
+      "userid": 2,
+      "modifiedon": "Tue Oct 10 2023 18:33:12 GMT+0530 (India Standard Time)",
+      "id": 5
+    },
+    {
+      "title": "project",
+      "description": "project description",
+      "duedate": "2024-01-15T13:22",
+      "userid": 3,
+      "modifiedon": "Mon Jan 15 2024 13:23:13 GMT+0530 (India Standard Time)",
+      "id": 6
+    }
+  ]
+}

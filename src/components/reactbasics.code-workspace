@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../reactbasics"
+		},
+		{
+			"path": "../../../homework"
+		},
+		{
+			"path": "../../../practice"
+		},
+		{
+			"path": "../../../../BootStrap"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../reduxbasics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BootStrap"
+	}
+}

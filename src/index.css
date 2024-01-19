@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Poppins:wght@300;400;700&display=swap');
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+html,body{
+    height: 100%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #DDE7f9;
+}
+
+.title{
+    font-family: 'Poiret One', cursive;
+}
+
+#root{
+    height: 100%;
+}
+
+.bg-primary, .btn-primary{
+    background-color:  #131823 !important;
+    ;
+}
+
+.text-primary{
+    color: #131823 !important ;
+}
+
+.auth-card{
+    width: 100%;
+    max-width: 460px;
+}
+.blue{
+    color: #33BEFA;
+}
+
+.task-id{
+    width: 10%;
+
+}
+
+.task-title{
+    width: 20%;
+}
+
+.task-desc{
+    width: 40%;
+}
+
+.task-duedate{
+    width:15% ;
+}
+
+.task-action{
+    width: 15%;
+}
+
+.task-row{
+    background-color: #202938;
+}
+
+.modal-dialog{
+    max-width: 900px;
+}
+
+.search-bar{
+    position: relative;
+}
+
+.search-icon{
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.search-bar input{
+    padding-left: 35px;
+}
+
+.card-2{
+    background-color: #131823;
+    height: 400px;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 10%;
+    
+}
